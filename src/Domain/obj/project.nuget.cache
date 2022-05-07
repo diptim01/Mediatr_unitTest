@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vf313rOvkeWTaahY8+ng1LPgCUw03u14EHe3eC/Hvk+7xVTPN0wjlWr+R3t3xa6UxN2Ac0n60PU/pgHOAGl2RA==",
+  "success": true,
+  "projectFilePath": "/Users/Oladipo.Alokan/RiderProjects/AssessmentStepOne/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/Oladipo.Alokan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

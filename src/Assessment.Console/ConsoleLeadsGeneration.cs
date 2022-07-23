@@ -30,8 +30,6 @@ namespace Assessment.Console
             {
                 System.Console.WriteLine(exx.Message);
             }
-
-         
         }
         
         private async Task ProcessRequest(IParseLeads leads)
